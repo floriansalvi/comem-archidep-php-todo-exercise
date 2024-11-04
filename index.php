@@ -9,7 +9,7 @@ define('BASE_URL', '/');
 
 // Database connection parameters.
 define('DB_USER', 'todolist');
-define('DB_PASS', 'password');
+define('DB_PASS', 'archiDur12!');
 define('DB_NAME', 'todolist');
 define('DB_HOST', '127.0.0.1');
 define('DB_PORT', '3306');
